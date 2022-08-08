@@ -17,3 +17,5 @@
     <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="text-align: center"/>
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="text-align: center"/>
 </div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kauan678f&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
