@@ -6,7 +6,7 @@
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauan678f&show_icons=true&theme=dracula)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Kauan678f)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kauan678f)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
