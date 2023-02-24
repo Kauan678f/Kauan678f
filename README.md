@@ -17,10 +17,3 @@
     <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="text-align: center"/>
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="text-align: center"/>
 </div>
-
-</div>
- 
- 
-  ![Snake animation](https://github.com/kauan678f/kauan678f)
- 
-</div>
