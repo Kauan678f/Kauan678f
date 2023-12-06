@@ -16,5 +16,5 @@
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="text-align: center"/>
     <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="text-align: center"/>
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="text-align: center"/>
-    <img alt="MySql" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fnoticias%2F2012%2F04%2Fo-que-e-e-como-usar-o-mysql.ghtml&psig=AOvVaw2rK38lOsg3m7buEqu9ZtYI&ust=1701911444569000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDS16fQ-YIDFQAAAAAdAAAAABAE"
+    <img alt="MySql" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ashiqgiga07%2Fworking-with-mysql-dae8f149aa57&psig=AOvVaw1VZ4aWJgW8fRdI-B0s7OED&ust=1701911506033000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiU9cTQ-YIDFQAAAAAdAAAAABAJ"
 </div>
